@@ -1,0 +1,36 @@
+GWAM Timber and Ag Systems --GWAMTIMAG--- (Shared Config)
+Latitude - Harvest Applications--GTL (PASSED)
+Latitude - HNRG Mobile --LMOB (PASSED)
+Latitude - Legacy Bridge to Inventory, Growth, & Yield --LLBTIGY (PASSED)
+Latitude - Data & Analytics -- LBI --(Shared Config)
+Latitude - ForestOps Integration --LFOI (PASSED)
+App Dev Team – BAU  -->BAU (PASSED)
+App Dev - Finance & Accounting --> FIN (Shared Config)
+
+Create SNOW CHG-Part1
+App Dev - Finance & Accounting --> FIN 
+Latitude - Data & Analytics -- LBI
+
+========================
+Deliverable, 
+Outcome, 
+Business Readiness,  
+System Readiness
+
+GWAM JIRA Scrum Screen scheme - WMSDAS: Business Readiness
+GWAM JIRA Scrum Screen scheme - WMSDAS: Deliverable
+GWAM JIRA Scrum Screen scheme - WMSDAS: Outcome
+GWAM JIRA Scrum Screen scheme - WMSDAS: System Readiness
+
+===============
+
+GWAM JIRA Scrum Screen scheme - LBI: Business Readiness
+GWAM JIRA Scrum Screen scheme - LBI: Deliverable
+GWAM JIRA Scrum Screen scheme - LBI: Outcome
+GWAM JIRA Scrum Screen scheme - LBI: System Readiness
+
+GWAM JIRA Scrum Screen scheme - FIN: Business Readiness
+GWAM JIRA Scrum Screen scheme - FIN: Deliverable
+GWAM JIRA Scrum Screen scheme - FIN: Outcome
+GWAM JIRA Scrum Screen scheme - FIN: System Readiness
+
