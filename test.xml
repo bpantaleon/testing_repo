@@ -27,7 +27,7 @@ description="JIRA Server Dashboard Description">
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 <style>
 table, th, td {
-  border:1px solid black;
+ 
   border-collapse: collapse;
 }
 </style>
